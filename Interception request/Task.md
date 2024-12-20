@@ -1,5 +1,5 @@
 # Проксування запитів за допомогою debug proxy інструментів (Charles/Fiddler)
-***Завдання:*** За допомогою інструментів проксування (наприклад, Charles Proxy або Fiddler) учасники мають перехопити HTTP/HTTPS-запити і перевірити, які саме дані передаються між клієнтом і сервером.
+***Завдання:*** За допомогою інструментів проксування (наприклад, Charles Proxy або Fiddler) учасники мають перехопити HTTP/HTTPS-запити. Метою буде перевірити, які саме дані передаються між клієнтом і сервером і як реагує додаток на різні статус коди.
 
 ***Ключові кроки:***
 
@@ -50,7 +50,7 @@
  - Установити Certificate
 
 ***Корисні відео***
-За посиланням [Interception request](https://github.com/AntonStroi/QA-Hackathon/tree/main/Interception%20request) ви знайдете:
+- За посиланням [Interception request](https://github.com/AntonStroi/QA-Hackathon/tree/main/Interception%20request) ви знайдете:
 1. Відео як підключити проксі на емуляторі (Charles): 1-setup-charles-for-proxying-test-app
 2. Приклад як відео з перехопленням і підміною респонс кода: 2-enable-proxy-and-intercepting-a-login-request
 3. Документація як використовувати інструменти:
