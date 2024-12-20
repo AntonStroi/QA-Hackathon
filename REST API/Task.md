@@ -42,8 +42,8 @@
 
 ***Pre-Request Script example:***
 
-var pet_id = pm.variables.replaceIn('{{$randomInt}}')
-pm.environment.set("PET_ID", parseInt(pet_id));
+`"var pet_id = pm.variables.replaceIn('{{$randomInt}}')"`
+`"pm.environment.set("PET_ID", parseInt(pet_id));"`
 
 2. До кожного запиту мають бути тести. Розробка тестів та їх кількість (мінімум 1 тест) повністю на розсуд учасника.
 
@@ -63,6 +63,6 @@ pm.environment.set("PET_ID", parseInt(pet_id));
 
 ---
 
-#Успіхів!
+# Успіхів!
 
 ---
