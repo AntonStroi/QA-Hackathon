@@ -19,22 +19,35 @@
 
 ***Задача:***
 
-- При переході по картці Do Your Workout з Personal plan екрану користувач потрапляє в Trainings Tab - ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/1.png).
+- При переході по картці Do Your Workout з Personal plan екрану користувач потрапляє в Trainings Tab
 
-- В табі Trainings новий блок: Today’s Activity, в якому знаходяться від 1 до 3 рекомендованих тренувань, в залежності від кількості обраних користувачем activity на онбордінгу ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/2.png).
+![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/1.png)
+
+- В табі Trainings новий блок: Today’s Activity, в якому знаходяться від 1 до 3 рекомендованих тренувань, в залежності від кількості обраних користувачем activity на онбордінгу
+
+![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/2.png)
 
 - Title - “Recommended for you”. Subtitle - “Get daily workouts tailored to your goal and interests in [Chosen Activity #1], [#2] and [#3].”
 
 - Якщо активності обрані тільки 2, пишемо 2, якщо тільки одна то відповідно пишемо interest (без множини): “Get daily workouts tailored to your goal and interest in [Chosen Activity #1].”
+
 ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/3.png)
 
 - Якщо користувач обрав 2 і більше рекомендованих activity
-   - При виконані 1 з них ми замінюємо Subtitle: “Great job! [N] more workout left” - ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/4.png).
-   - При виконані всіх ми замінюємо Subtitle: “All workouts done! For an extra challenge, check out the workout library below” - ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/5.png).
+   - При виконані 1 з них ми замінюємо Subtitle: “Great job! [N] more workout left” 
+   
+   ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/4.png)
+
+   - При виконані всіх ми замінюємо Subtitle: “All workouts done! For an extra challenge, check out the workout library below”
+   
+   ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/5.png)
+
    - На екрані Personal plan відмічаємо картку Do Your Workout як виконану.
 - Вся область карточки клікабельна та переводить на Workout preview screen
 
-- ***Нотатка до завдання:*** Екран з вибором activity користувач бачить під час проходження онбордінгу як гість або після реєстрації - ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/6.png)
+- ***Нотатка до завдання:*** Екран з вибором activity користувач бачить під час проходження онбордінгу як гість або після реєстрації
+
+ ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/6.jpeg)
 
 Рішення залити на github у папку ***Requirements analysis.*** В README написати тест кейси або тест кейси до задачі.
 
