@@ -30,6 +30,7 @@
 До будь якого ендпоінта, обраного у попередньому завданні, написати до 10 тесткейсів, які покривають ендпоінт.
 
 Рішення завдання 1 і завдання 2 залити на github у папку ***REST API***. Воно повинно включати всі необхідні файли для запуску колекції (завдання 1), аналіз документації у файлі Analyse (завдання 1) і README (завдання 2). Надати лінку на github з рішенням.
+
 ---
 
 # Help guide
@@ -54,6 +55,14 @@ pm.environment.set("PET_ID", parseInt(pet_id));
 
 Приклад: створити сутність, отримати сутність, відредагувати сутність, отримати сутність повторно.
 
-4. Як створити репозиторій і залити туди рішення: [GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+5. За посиланням ви знайдете [Приклад колекції з одного запиту](https://github.com/AntonStroi/QA-Hackathon/blob/main/REST%20API/postman_collection.json)
+
+6. За посиланням ви знайдете [Приклад оформлення тест кейсів](https://github.com/AntonStroi/QA-Hackathon/blob/main/REST%20API/README.md)
+
+7. Як створити репозиторій і залити туди рішення: [GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+
+---
+
+#Успіхів!
 
 ---

@@ -57,3 +57,9 @@
 - [Breakpoints Tool • Charles Web Debugging Proxy](https://www.charlesproxy.com/documentation/proxying/breakpoints/)
 - [Rewrite Tool • Charles Web Debugging Proxy](https://www.charlesproxy.com/documentation/tools/rewrite/)
 4. Як створити репозиторій і залити туди рішення: [GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+
+---
+
+#Успіхів!
+
+---
