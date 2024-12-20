@@ -9,7 +9,7 @@
 
 ***Інструменти:***
 
-Тобі знадобиться: Postman, Charles Proxy, Fiddler або Proxyman
+Тобі знадобиться: Postman, Charles Proxy, Fiddler або Proxyman, GitHub акаунт.
 
 ---
 
