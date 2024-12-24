@@ -27,7 +27,7 @@
 ---
 
 # Help guide
-- За посиланням ви знайдете відео як налаштувати Google account та як скачати додаток для тестування [Instructions](https://github.com/AntonStroi/QA-Hackathon/tree/main/Instructions)
+- Додаток можна завантажити за посиланням [Better Me](https://play.google.com/store/apps/details?id=com.gen.workoutme&hl=en)
 
 - За посиланням ви знайдете відео на якому екрані робити тестову покупку [Subscription ](https://github.com/AntonStroi/QA-Hackathon/tree/main/Subscription)
 

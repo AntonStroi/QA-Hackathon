@@ -57,7 +57,7 @@
 
 4. За посиланням ви знайдете [Приклад колекції з одного запиту](https://github.com/AntonStroi/QA-Hackathon/blob/main/REST%20API/postman_collection.json)
 
-5. За посиланням ви знайдете [Приклад оформлення тест кейсів](https://github.com/AntonStroi/QA-Hackathon/blob/main/REST%20API/README.md)
+5. За посиланням ви знайдете [Приклад оформлення тест кейсів](https://github.com/AntonStroi/QA-Hackathon/blob/main/REST%20API/Example.md)
 
 6. Як створити репозиторій і залити туди рішення: [GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 

@@ -25,7 +25,7 @@
 
 ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/1.png)
 
-- В табі Trainings новий блок: Today’s Activity, в якому знаходяться від 1 до 3 рекомендованих тренувань, в залежності від кількості обраних користувачем activity на онбордінгу
+- В табі Trainings новий блок: Today’s Activity, в якому знаходяться від 1 до 3 рекомендованих тренувань, в залежності від кількості обраних користувачем activity на відповідному екрані
 
 ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/2.png)
 
@@ -47,7 +47,7 @@
    - На екрані Personal plan відмічаємо картку Do Your Workout як виконану.
 - Вся область карточки клікабельна та переводить на Workout preview screen
 
-- ***Нотатка до завдання:*** Екран з вибором activity користувач бачить під час проходження онбордінгу як гість або після реєстрації
+- ***Нотатка до завдання:*** Дизайн екрану з вибором activity
 
  ![Design](https://github.com/AntonStroi/QA-Hackathon/blob/main/Requirements%20analysis%20/6.jpeg)
 
